@@ -1,6 +1,6 @@
 import os
 
-path = 'D:\\datasets\\数据集\\neworange2apple'  # 需要处理的文件路径
+path = ''  # 需要处理的文件路径
 filelist = os.listdir(path)  # 打印所有文件夹下的内容，可以不要这3行代码
 for file in filelist:
     print(file)
