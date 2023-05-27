@@ -27,5 +27,5 @@ def rename(path):
 
 
 if __name__ == '__main__':
-    path = 'E:\PythonProject\Tools\\3'
+    path = ''
     rename(path)
